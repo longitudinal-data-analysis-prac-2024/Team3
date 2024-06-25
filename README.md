@@ -234,12 +234,12 @@ Post-hoc pairwise comparisons suggest that this interaction was primarily driven
   </tr>
   <tr>
     <td>supportive coping</td>
-    <td>1.50e-03</td>
+    <td> 6.54e-03</td>
     <td>[0.00, 1.00]</td>
   </tr>
   <tr>
     <td>time: supportive coping</td>
-    <td>-0.02</td>
+    <td>0.02</td>
     <td>[0.01, 1.00]</td>
   </tr>
 </table>
