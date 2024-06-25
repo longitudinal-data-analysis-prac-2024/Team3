@@ -238,11 +238,6 @@ Post-hoc pairwise comparisons suggest that this interaction was primarily driven
     <td>[0.00, 1.00]</td>
   </tr>
   <tr>
-    <td>starting_BP</td>
-    <td>0.99</td>
-    <td>[0.99, 1.00]</td>
-  </tr>
-  <tr>
     <td>time: supportive coping</td>
     <td>-0.02</td>
     <td>[0.01, 1.00]</td>
